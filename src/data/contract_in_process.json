@@ -1,0 +1,204 @@
+{
+  "contract_in_process": [
+    {
+      "trade_details": {
+        "trade_number": "TR-22-00001",
+        "trade_date": "2022-06-19T00:00:00.000Z"
+      },
+      "contract_details": [
+        {
+          "contract_number": "SMJ-001",
+          "contract_company": "SMJ Power LTD",
+          "contract_document": "Letter of Credit"
+        },
+        {
+          "contract_number": "JMS-001",
+          "contract_company": "JMS Power LTD",
+          "contract_document": "Letter of Credit"
+        }
+      ],
+      "products": [
+        {
+          "product_name": "COAL",
+          "product_pieces": 12345,
+          "product_weight": 2000,
+          "product_unit": "MT'"
+        },{
+          "product_name": "Barite",
+          "product_pieces": 12345,
+          "product_weight": 2000,
+          "product_unit": "MT'"
+        },{
+          "product_name": "Bauxite",
+          "product_pieces": 12345,
+          "product_weight": 2000,
+          "product_unit": "MT'"
+        },{
+          "product_name": "Aluminum",
+          "product_pieces": 12345,
+          "product_weight": 2000,
+          "product_unit": "MT'"
+        },{
+          "product_name": "Iron Ore",
+          "product_pieces": 12345,
+          "product_weight": 2000,
+          "product_unit": "MT'"
+        }
+      ],
+      "shipping_details": {
+        "shipped_long_term": "FOB",
+        "shipped_by": "Sea",
+        "shipping_laydays_commence": "2022-09-01T00:00:00.000Z",
+        "shipping_cancelling_date": "2022-09-10T00:00:00.000Z",
+        "load_port": "Dubai, UAE",
+        "destination_port": "Sharjah, UAE"
+      },
+      "contract_stage": {
+        "estimated_cost_sheet": "NOT_STARTED",
+        "customer_contract": "DONE",
+        "supplier_contract_draft_v2": "PENDING"
+      },
+      "links": {
+        "edit": "http://localhost:4200/edit/TR-22-00001",
+        "freight_charges_updates": "http://localhost:4200/freight-charges-update/TR-22-00001",
+        "prepare_estimated_cost_sheet": "http://localhost:4200/prepare-estimated-cost-sheet/TR-22-00001",
+        "customer_draft_contract": "http://localhost:4200/customer-draft-contract/TR-22-00001",
+        "supplier_draft_contract": "http://localhost:4200/supplier-draft-contract/TR-22-00001",
+        "mark_contracts_finalized": "http://localhost:4200/mark-contracts-finalized/TR-22-00001"
+      }
+    },
+    {
+      "trade_details": {
+        "trade_number": "TR-22-00002",
+        "trade_date": "2022-06-19T00:00:00.000Z"
+      },
+      "contract_details": [
+        {
+          "contract_number": "SMJ-001",
+          "contract_company": "SMJ Power LTD",
+          "contract_document": "Letter of Credit"
+        },
+        {
+          "contract_number": "JMS-001",
+          "contract_company": "JMS Power LTD",
+          "contract_document": "Letter of Credit"
+        }
+      ],
+      "products": [
+        {
+          "product_name": "COAL",
+          "product_pieces": 12345,
+          "product_weight": 2000,
+          "product_unit": "MT'"
+        },{
+          "product_name": "Barite",
+          "product_pieces": 12345,
+          "product_weight": 2000,
+          "product_unit": "MT'"
+        },{
+          "product_name": "Bauxite",
+          "product_pieces": 12345,
+          "product_weight": 2000,
+          "product_unit": "MT'"
+        },{
+          "product_name": "Aluminum",
+          "product_pieces": 12345,
+          "product_weight": 2000,
+          "product_unit": "MT'"
+        },{
+          "product_name": "Iron Ore",
+          "product_pieces": 12345,
+          "product_weight": 2000,
+          "product_unit": "MT'"
+        }
+      ],
+      "shipping_details": {
+        "shipped_long_term": "FOB",
+        "shipped_by": "Sea",
+        "shipping_laydays_commence": "2022-09-01T00:00:00.000Z",
+        "shipping_cancelling_date": "2022-09-10T00:00:00.000Z",
+        "load_port": "Dubai, UAE",
+        "destination_port": "Sharjah, UAE"
+      },
+      "contract_stage": {
+        "estimated_cost_sheet": "PENDING_APPROVAL",
+        "customer_contract": "DONE",
+        "supplier_contract_draft_v2": "PENDING"
+      },
+      "links": {
+        "edit": "http://localhost:4200/edit/TR-22-00002",
+        "freight_charges_updates": "http://localhost:4200/freight-charges-update/TR-22-00002",
+        "prepare_estimated_cost_sheet": "http://localhost:4200/prepare-estimated-cost-sheet/TR-22-00002",
+        "customer_draft_contract": "http://localhost:4200/customer-draft-contract/TR-22-00002",
+        "supplier_draft_contract": "http://localhost:4200/supplier-draft-contract/TR-22-00002",
+        "mark_contracts_finalized": "http://localhost:4200/mark-contracts-finalized/TR-22-00002"
+      }
+    },{
+      "trade_details": {
+        "trade_number": "TR-22-00003",
+        "trade_date": "2022-06-19T00:00:00.000Z"
+      },
+      "contract_details": [
+        {
+          "contract_number": "SMJ-001",
+          "contract_company": "SMJ Power LTD",
+          "contract_document": "Letter of Credit"
+        },
+        {
+          "contract_number": "JMS-001",
+          "contract_company": "JMS Power LTD",
+          "contract_document": "Letter of Credit"
+        }
+      ],
+      "products": [
+        {
+          "product_name": "COAL",
+          "product_pieces": 12345,
+          "product_weight": 2000,
+          "product_unit": "MT'"
+        },{
+          "product_name": "Barite",
+          "product_pieces": 12345,
+          "product_weight": 2000,
+          "product_unit": "MT'"
+        },{
+          "product_name": "Bauxite",
+          "product_pieces": 12345,
+          "product_weight": 2000,
+          "product_unit": "MT'"
+        },{
+          "product_name": "Aluminum",
+          "product_pieces": 12345,
+          "product_weight": 2000,
+          "product_unit": "MT'"
+        },{
+          "product_name": "Iron Ore",
+          "product_pieces": 12345,
+          "product_weight": 2000,
+          "product_unit": "MT'"
+        }
+      ],
+      "shipping_details": {
+        "shipped_long_term": "FOB",
+        "shipped_by": "Sea",
+        "shipping_laydays_commence": "2022-09-01T00:00:00.000Z",
+        "shipping_cancelling_date": "2022-09-10T00:00:00.000Z",
+        "load_port": "Dubai, UAE",
+        "destination_port": "Sharjah, UAE"
+      },
+      "contract_stage": {
+        "estimated_cost_sheet": "DONE",
+        "customer_contract": "DONE",
+        "supplier_contract_draft_v2": "PENDING"
+      },
+      "links": {
+        "edit": "http://localhost:4200/edit/TR-22-00003",
+        "freight_charges_updates": "http://localhost:4200/freight-charges-update/TR-22-00003",
+        "prepare_estimated_cost_sheet": "http://localhost:4200/prepare-estimated-cost-sheet/TR-22-00003",
+        "customer_draft_contract": "http://localhost:4200/customer-draft-contract/TR-22-00003",
+        "supplier_draft_contract": "http://localhost:4200/supplier-draft-contract/TR-22-00003",
+        "mark_contracts_finalized": "http://localhost:4200/mark-contracts-finalized/TR-22-00003"
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+html,
+body {
+  -webkit-text-size-adjust: none !important;
+  touch-action: pan-x pan-y !important;
+}
+
+::selection {
+  background: #fff;
+}
+
+body {
+  min-width: 330px !important;
+  -webkit-text-size-adjust: none !important;
+  touch-action: pan-x pan-y !important;
+}
+
+* {
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+}
+
+/* Change autocomplete styles in WebKit */
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus {
+  -webkit-text-fill-color: #8b859f;
+  transition: background-color 5000s ease-in-out 0s;
+  caret-color: #1d1929;
+}
+
+* {
+  scrollbar-width: none;
+  -ms-overflow-style: -ms-autohiding-scrollbar;
+}
+
+*::-webkit-scrollbar {
+  -webkit-appearance: none;
+  display: none;
+  width: 0 !important;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #faebd700;
+}
+
+::-webkit-scrollbar-track {
+  background: #faebd700;
+}

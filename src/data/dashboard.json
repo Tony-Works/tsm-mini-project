@@ -1,0 +1,119 @@
+{
+  "dashboard": {
+    "project_overview": {
+      "new_requirements": 12,
+      "initiated": 2,
+      "upcoming": 3
+    },
+    "recent_notification": [
+      {
+        "trade_number": "TR-22-00001",
+        "updated_part": "Freight charges",
+        "updated_by": "Aneesh Thomas",
+        "updated_at": "3h ago"
+      }, {
+        "trade_number": "TR-22-00001",
+        "updated_part": "Freight",
+        "updated_by": "Nita Chakravarty",
+        "updated_at": "3h ago"
+      }, {
+        "trade_number": "TR-22-00001",
+        "updated_part": "Freight",
+        "updated_by": "Aneesh Thomas",
+        "updated_at": "3h ago"
+      }
+    ],
+    "engagement_overview": {
+      "customers": 1369,
+      "suppliers": 2056,
+      "meetings": 5
+    },
+    "product_overview": {
+      "metals": {
+        "amount": [
+          {
+            "item_name": "Coal",
+            "item_amount": 2303.72,
+            "price_change": 10.3
+          }, {
+            "item_name": "Aluminum",
+            "item_amount": 1242.82,
+            "price_change": -11.5
+          }, {
+            "item_name": "Iron Ore",
+            "item_amount": 398.53,
+            "price_change": -11.5
+          }
+        ], "volume" :[
+          {
+            "item_name": "Coal",
+            "item_volume": 2303
+          }, {
+            "item_name": "Aluminum",
+            "item_volume": 1242
+          }, {
+            "item_name": "Iron Ore",
+            "item_volume": 398
+          }
+        ]
+      },
+      "minerals": {
+        "amount": [
+          {
+            "item_name": "Coal",
+            "item_amount": 2303.72,
+            "price_change": 10.3
+          }, {
+            "item_name": "Aluminum",
+            "item_amount": 1242.82,
+            "price_change": -11.5
+          }, {
+            "item_name": "Iron Ore",
+            "item_amount": 398.53,
+            "price_change": -11.5
+          }
+        ], "volume" :[
+          {
+            "item_name": "Coal",
+            "item_volume": 2303
+          }, {
+            "item_name": "Aluminum",
+            "item_volume": 1242
+          }, {
+            "item_name": "Iron Ore",
+            "item_volume": 398
+          }
+        ]
+      }
+    },
+    "trades_overview": {
+      "total_trades": 3856,
+      "total_trade_revenue": {
+        "amount": 3945.07,
+        "net_profit": 10.2
+      },
+      "trade_transactions": {
+        "contract_stage": {
+          "quantity": 12,
+          "amount": 35678
+        },
+        "pre_shipment": {
+          "quantity": 20,
+          "amount": 35678
+        },
+        "post_fixtures_vessel": {
+          "quantity": 8,
+          "amount": 35678
+        },
+        "in_transit": {
+          "quantity": 5,
+          "amount": 205678
+        },
+        "pre_closure": {
+          "quantity": 5,
+          "amount": 205678
+        }
+      }
+    }
+  }
+}
