@@ -19,7 +19,10 @@ const Layout = (props: PropsWithChildren) => {
         sx={{
           marginInlineStart: 'auto',
           flex: 1,
-          width: { xs: 'auto', sm: '100%' },
+          width:
+            location.pathname === '/dashboard'
+              ? { xs: 'auto', sm: '100%' }
+              : '100%',
           backgroundColor: active === '/dashboard' ? '#EEEfff' : '#FFFFFF',
         }}>
         {props.children}
